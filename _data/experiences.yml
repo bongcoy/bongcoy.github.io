@@ -1,0 +1,45 @@
+- role: "Senior Full Stack Developer"
+  company: "Company A"
+  duration: "3 years"
+  responsibilities:
+    - "Led development of web applications using modern JavaScript frameworks"
+    - "Designed and implemented RESTful APIs and microservices architecture"
+    - "Collaborated with cross-functional teams to deliver high-quality software solutions"
+    - "Mentored junior developers and conducted code reviews"
+    - "Optimized application performance and implemented best practices"
+  tools:
+    - "JavaScript"
+    - "React"
+    - "Node.js"
+    - "MongoDB"
+    - "Docker"
+
+- role: "Web Developer & Data Analyst"
+  company: "Company B"
+  duration: "2 years"
+  responsibilities:
+    - "Developed responsive web applications with modern UI/UX design"
+    - "Implemented data visualization dashboards for business intelligence"
+    - "Automated data processing workflows using Python scripts"
+    - "Integrated third-party APIs and services"
+  tools:
+    - "PHP"
+    - "MySQL"
+    - "Python"
+    - "Chart.js"
+    - "Bootstrap"
+
+- role: "Junior Developer & Research Assistant"
+  company: "Company C"
+  duration: "1.5 years"
+  responsibilities:
+    - "Assisted in scientific software development for research projects"
+    - "Created data analysis scripts and visualization tools"
+    - "Maintained and updated legacy systems"
+    - "Participated in agile development processes"
+  tools:
+    - "Python"
+    - "R"
+    - "SQL"
+    - "Git"
+    - "Linux"

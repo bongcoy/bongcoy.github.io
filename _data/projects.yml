@@ -1,0 +1,47 @@
+- name: "Masjid Wall Display System"
+  image: "assets/images/project-masjid.jpg"
+  tools:
+    - "Vanilla JavaScript"
+    - "PHP"
+    - "Raspberry Pi"
+    - "Offline-first"
+
+- name: "E-Commerce Dashboard"
+  image: "assets/images/project-ecommerce.jpg"
+  tools:
+    - "React"
+    - "Node.js"
+    - "MongoDB"
+    - "Chart.js"
+
+- name: "Data Visualization Platform"
+  image: "assets/images/project-dataviz.jpg"
+  tools:
+    - "Python"
+    - "D3.js"
+    - "Flask"
+    - "PostgreSQL"
+
+- name: "IoT Monitoring System"
+  image: "assets/images/project-iot.jpg"
+  tools:
+    - "Arduino"
+    - "WebSocket"
+    - "React"
+    - "InfluxDB"
+
+- name: "Scientific Research Portal"
+  image: "assets/images/project-research.jpg"
+  tools:
+    - "PHP"
+    - "MySQL"
+    - "jQuery"
+    - "Bootstrap"
+
+- name: "Mobile App Backend API"
+  image: "assets/images/project-api.jpg"
+  tools:
+    - "Node.js"
+    - "Express"
+    - "JWT"
+    - "Redis"
